@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "238617698002",
+    "firebase_url": "https://kumarannajds-d44ff.firebaseio.com",
+    "project_id": "kumarannajds-d44ff",
+    "storage_bucket": "kumarannajds-d44ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238617698002:android:eda426891ae12369",
+        "android_client_info": {
+          "package_name": "com.example.gagan.proj1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238617698002-8srr7iktugajiuu6ngnc17m6guntu9s2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gagan.proj1",
+            "certificate_hash": "b8bccf7c4e00927fe056ee9e1d6ae536816adc0a"
+          }
+        },
+        {
+          "client_id": "238617698002-v921hvlq8e4f6ugbee68j7uit4ic7nii.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "238617698002-pa94loqq9opr5cl5gl9r8de4cdpjedej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFWHew5zmUmGeo6r1RT9kYekhKDyIJSgI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238617698002-v921hvlq8e4f6ugbee68j7uit4ic7nii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238617698002:android:09a79fb8583b9afd",
+        "android_client_info": {
+          "package_name": "com.kuruvatech.kumarannajds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238617698002-v921hvlq8e4f6ugbee68j7uit4ic7nii.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "238617698002-9ih9kq0ua5uvlgpcpnom7lq51ivj51s4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kuruvatech.kumarannajds",
+            "certificate_hash": "b722bb446824f0f5c8af713dc4fccd41d6e8e4fb"
+          }
+        },
+        {
+          "client_id": "238617698002-pa94loqq9opr5cl5gl9r8de4cdpjedej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFWHew5zmUmGeo6r1RT9kYekhKDyIJSgI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238617698002-v921hvlq8e4f6ugbee68j7uit4ic7nii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
